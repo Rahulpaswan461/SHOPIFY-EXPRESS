@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "formidable": "^3.5.1",
+    "https": "^1.0.0"
+  }
+}
